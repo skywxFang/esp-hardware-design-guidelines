@@ -5,6 +5,10 @@
    * - 日期
      - 版本
      - 发布说明
+   * - 2025-11-28
+     - v1.3
+     - - :doc:`../schematic-checklist-esp32p4`
+           - 章节 :ref:`internal-voltage-regulators`：更新 FB_DCDC 和 EN_DCDC 相关的说明
    * - 2025-09-22
      - v1.2
      - - :doc:`../schematic-checklist-esp32p4`

@@ -5,6 +5,10 @@
    * - Date
      - Version
      - Release Notes
+   * - 2025-11-28
+     - v1.3
+     - - :doc:`../schematic-checklist-esp32p4`
+           - Section :ref:`internal-voltage-regulators`: Updated a note about FB_DCDC and EN_DCDC
    * - 2025-09-22
      - v1.2
      - - :doc:`../schematic-checklist-esp32p4`
